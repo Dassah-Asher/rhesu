@@ -1,0 +1,21 @@
+{
+    "name":"Germaine",
+    "class":"3A",
+    "year":"2001",
+    "classScore":"25",
+    "examScore":"65",
+    "subject":"Social",
+    "grade":"A",
+    "remarks":"good",
+    "teacherRemarks":"excellent",
+    "attendance":"excellent",
+    "interest":"good"
+    
+
+}
+
+{
+    "name":"Naayere Germaine",
+    "password":"germcrazyfc6
+    "email":"crazyfc@gmail.com"
+}
