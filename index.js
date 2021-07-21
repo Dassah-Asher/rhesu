@@ -19,11 +19,14 @@ app.use(express.json());
 app.use(cors());
 app.use(morgan("dev"));
 
+//routes
 app.use('/students', studentRoute)
 
 // PORT
 const port = process.env.PORT || 5000;
-const server = app.listen(port, () => {
+
+
+ app.listen(port, () => {
   console.log('Connected to port ' + port)
 })
 
